@@ -1,0 +1,2 @@
+# irAmortizingSwap
+An amortizing swap is an interest rate swap whose notional principal amount declines during the life of the contract whereas an accreting swap is an interest rate swap whose notional principal amount increases instead. The notional amount changes could be one leg or two legs, but typically on a fixed schedule. The notional principal is tied to an underlying financial instrument with a declining principal, such as a mortgage or an increasing principal, such as a construction fund. 
