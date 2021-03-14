@@ -63,4 +63,4 @@ Fixed Rate	0.0245	Spread	0	5893384	5/1/2016
 
 
 You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+https://finpricing.com/faq.html
