@@ -62,5 +62,9 @@ Fixed Rate	0.0245	Spread	0	5893384	5/1/2016
 		Index DayCount	dcAct360	5788664	9/1/2016
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/iramortizingcap/downloads/IrAmortizingCap-25.pdf
+
