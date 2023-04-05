@@ -64,7 +64,5 @@ Fixed Rate	0.0245	Spread	0	5893384	5/1/2016
 
 References:
 
-https://finpricing.com/lib/EqConvertible.html
-
-https://bitbucket.org/cmrm11/iramortizingswap/downloads/IrAmortizingSwap-26.pdf
+https://finpricing.com/curveVolList.html
 
